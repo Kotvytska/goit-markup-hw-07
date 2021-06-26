@@ -1,0 +1,12 @@
+$color: red;
+body {
+  background: $color;
+}
+
+.section {
+  color: red;
+
+  &-title {
+    background: #000;
+  }
+}
